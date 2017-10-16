@@ -1,6 +1,5 @@
 # FreeTypeFont
-FreeTypeFont
-
+<br>
 SoFreeTypeFont.h<br>
 SoFreeTypeFont.cpp<br>
 这两个文件演示了加载磁盘上的FreeType文件，并生成指定的字形。<br>
